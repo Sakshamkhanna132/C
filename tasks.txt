@@ -1,0 +1,5 @@
+even odd
+
+leap year 
+
+calculartor - take sign from user 
